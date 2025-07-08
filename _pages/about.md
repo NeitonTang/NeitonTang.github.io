@@ -9,8 +9,18 @@ redirect_from:
 
 Peng Tang, male, is an Engineer at the Institute of Intelligent Systems and Applications Innovation, Network Intelligence Department, Peng Cheng Laboratory. He received a PhD in Control Science and Engineering from the University of Science and Technology Beijing; a Master's degree in Control Science and Engineering from North China University of Technology; and a Bachelor's degree in Automation from Changsha University of Science and Technology. His current research focuses on industrial process fault diagnosis and industrial large model application technology research.
 
-A data-driven personal website
+Educational Background
 ======
+Here is the professional English translation of the academic and professional timeline:
+
+| Period (Year/Month) | Institution/Organization | Major/Field | Supervisor | Degree/Position |
+| :------------------ | :----------------------- | :---------- | :--------- | :-------------- |
+| 2021.09-2023.06     | Peng Cheng Laboratory    | Control Science and Engineering | Academician Gui Weihua | Postdoctoral Researcher |
+| 2016.09-2021.06     | University of Science and Technology Beijing | Control Science and Engineering | Prof. Peng Kaixiang | Ph.D. |
+| 2013.09-2016.06     | North China University of Technology | Control Science and Engineering | Prof. Li Xiaojian | Master's Degree |
+| 2009.09-2013.06     | Changsha University of Science and Technology | Automation | - | Bachelor's Degree |
+
+This format complies with international CV/résumé standards for technical professionals, preserving all critical academic information while ensuring readability.
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
