@@ -11,7 +11,6 @@ Peng Tang, male, is an Engineer at the Institute of Intelligent Systems and Appl
 
 Educational Background
 ======
-Here is the professional English translation of the academic and professional timeline:
 
 | Period (Year/Month) | Institution/Organization | Major/Field | Supervisor | Degree/Position |
 | :------------------ | :----------------------- | :---------- | :--------- | :-------------- |
