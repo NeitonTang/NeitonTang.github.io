@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "唐鹏-证件照2023（白）.png"
+  avatar           : "tangpeng.png"
   name             : "Peng Tang" 
   bio              : "an Engineer at the Institute of Intelligent Systems and Applications Innovation, Network Intelligence Department, Peng Cheng Laboratory"
   location         : "Shenzhen China"
