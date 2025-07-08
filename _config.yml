@@ -22,7 +22,7 @@ repository               : "NeitonTang/NeitonTang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/tangpeng.png"
+  avatar           : "tangpeng.png"
   name             : "Peng Tang" 
   bio              : "an Engineer at the Institute of Intelligent Systems and Applications Innovation, Network Intelligence Department, Peng Cheng Laboratory"
   location         : "Shenzhen China"
