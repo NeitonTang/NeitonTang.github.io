@@ -21,13 +21,13 @@ Educational Background
 
 Research Achievements
 ======
-[1] Peng Tang, Kaixiang Peng, et. al. A novel distributed CVRAE-based spatio-temporal process monitoring method with its application, IEEE Transactions on Industrial Informatics, 2023. (SCI 1区, IF 11.648)
+[1] Peng Tang, Kaixiang Peng, et. al. A novel distributed CVRAE-based spatio-temporal process monitoring method with its application, IEEE Transactions on Industrial Informatics, 2023
 
-[2] 唐鹏, 彭开香, 董洁. 一种新颖的深度因果图建模及其故障诊断方法, 自动化学报, 2021. (国内自动化领域顶级期刊, IF 2.656)
+[2] 唐鹏, 彭开香, 董洁. 一种新颖的深度因果图建模及其故障诊断方法, 自动化学报, 2021
 
-[3] Peng Tang, Kaixiang Peng, Jie Dong. Nonlinear quality-related fault detection using combined deep variational information bottleneck and variational autoencoder, ISA Transactions, 2021 (SCI 2区, IF 5.911) 
+[3] Peng Tang, Kaixiang Peng, Jie Dong. Nonlinear quality-related fault detection using combined deep variational information bottleneck and variational autoencoder, ISA Transactions, 2021
 
-[4] Peng Tang, Kaixiang Peng, Ruihua Jiao. A process monitoring and fault isolation framework based on variational autoencoders and branch and bound method, Journal of the Franklin Institute, 2021 (SCI 2区, IF 4.246) 
+[4] Peng Tang, Kaixiang Peng, Ruihua Jiao. A process monitoring and fault isolation framework based on variational autoencoders and branch and bound method, Journal of the Franklin Institute, 2021 
 
-[5] Peng Tang, Kaixiang Peng, et. al. Monitoring of nonlinear processes with multiple operating modes through a novel gaussian mixture variational autoencoder model, IEEE Access, 2020 (SCI 2区, IF 3.476) 
+[5] Peng Tang, Kaixiang Peng, et. al. Monitoring of nonlinear processes with multiple operating modes through a novel gaussian mixture variational autoencoder model, IEEE Access, 2020
 
