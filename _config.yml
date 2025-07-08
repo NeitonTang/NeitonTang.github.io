@@ -23,24 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "唐鹏-证件照2023（白）.png"
-  name             : "Peng Tang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Peng Tang" 
+  bio              : "an Engineer at the Institute of Intelligent Systems and Applications Innovation, Network Intelligence Department, Peng Cheng Laboratory"
+  location         : "Shenzhen China"
+  email            : "tangp@pcl.ac.cn" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=M30RbLMAAAAJ&hl=zh-CN"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
